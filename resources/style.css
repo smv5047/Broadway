@@ -15,6 +15,7 @@ h3 {
 .title {
   color: white;
   background-image: url("./images/the-flatiron-building.png");
+  display: block;
 }
 
 .title p {
@@ -27,6 +28,11 @@ h3 {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+.btn-nav {
+  color: white;
+  font-size: 18px;
 }
 
 #designed {
